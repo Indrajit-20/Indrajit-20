@@ -94,7 +94,7 @@ A full-stack platform connecting customers with local service providers through 
 **Tech:** React.js · Node.js · Express.js · MySQL
 
 <p>
-  <a href="https://quick-seva-kappa.vercel.app/">
+<a href="https://quickseva.net/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20QuickSeva-16A34A?style=for-the-badge" alt="QuickSeva Live Demo"/>
   </a>
 </p>
